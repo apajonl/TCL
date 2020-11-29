@@ -1,6 +1,6 @@
 #!/usr/bin/tclsh
 
-console show
+#console show
 
 label .st -text "Scrambler V2.0" -font {arial 15} -width 80 -height 4
 pack .st
